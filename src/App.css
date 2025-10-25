@@ -128,14 +128,17 @@ img {
   justify-content: space-around;
   align-items: center;
   margin: 5px auto;
+  gap: 10px;
+  text-align: center;
 }
 
 .counter-button {
-  width: 15px;
-  height: 15px;
+  width: 12px;
+  height: 37px;
   border: 1px solid white;
   border-radius: 50%;
   cursor: pointer;
+  font-family:monospace;
 }
 
 .CartListBtns {
